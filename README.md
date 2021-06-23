@@ -12,6 +12,10 @@
 - 📫 How to reach me: K-20#0101
 - ⚡ Fun fact: Whales cannot fly.
 
+## Pinned Repo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-209&repo=Example-Discord-Bot)](https://github.com/K-209/Example-Discord-Bot)
+
+
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-209&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
