@@ -7,7 +7,7 @@
 - 📫 How to reach me: K-20#0101
 - ⚡ Fun fact: Whales cannot fly.
 
-[![K-20's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-209)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-209&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
