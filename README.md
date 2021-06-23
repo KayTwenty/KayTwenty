@@ -1,5 +1,4 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="https://raw.githubusercontent.com/K-209/K-209/main/resources/K-209.gif" alt="K-209's Banner">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/K-209/count.svg" />
