@@ -1,6 +1,7 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/K-209/K-209/main/resources/K-209.gif" alt="K-209's Banner">
 
-
+## About me
 - 🔭 I’m currently working on 9Ball (Private Repo)
 - 👀 Check out my: [Disord Example Bot](https://github.com/K-209/Example-Discord-Bot)
 - 🌱 I’m currently learning C#
