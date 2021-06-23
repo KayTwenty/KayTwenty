@@ -1,5 +1,9 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img src="https://raw.githubusercontent.com/K-209/K-209/main/resources/K-209.gif" alt="K-209's Banner">
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/K-209/count.svg" />
+</p>
 
 ## About me
 - 🔭 I’m currently working on 9Ball (Private Repo)
@@ -8,6 +12,7 @@
 - 📫 How to reach me: K-20#0101
 - ⚡ Fun fact: Whales cannot fly.
 
+## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-209&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
