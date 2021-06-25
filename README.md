@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Whales cannot fly.
 
 ## Other etc:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-209&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-209&repo=Example-Discord-Bot)](https://github.com/K-209/Example-Discord-Bot) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-209&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-209&repo=Example-Discord-Bot)](https://github.com/K-209/Example-Discord-Bot) 
 
 
 <!--
