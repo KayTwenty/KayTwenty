@@ -5,7 +5,7 @@
 </p>
 
 ## About me:
-- 🔭 I’m currently working on 9Ball (Private Repo)
+- 🔭 I’m currently working on Mango-Bot (Private Repo)
 - 👀 Check out my: [Toad Sings Music Bot](https://github.com/K-209/Toad-Sings-Discord-Bot)
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: K-20#0101
