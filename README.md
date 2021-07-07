@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Whales cannot fly.
 
 ## Other etc:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=K-209)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-209&repo=Toad-Sings-Discord-Bot&theme=nightowl)](https://github.com/K-209/Toad-Sings-Discord-Bot) 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=K209)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-209&repo=Toad-Sings-Discord-Bot&theme=nightowl)](https://github.com/K-209/Toad-Sings-Discord-Bot) 
 
 
 <!--
