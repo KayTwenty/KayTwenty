@@ -22,6 +22,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-209&repo=Toad-Sings-Discord-Bot&theme=nightowl)](https://github.com/K-209/Toad-Sings-Discord-Bot) 
 
 ### Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-209&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-209&show_icons=true&theme=nightowl)
 
 
