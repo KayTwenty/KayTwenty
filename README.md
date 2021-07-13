@@ -20,7 +20,7 @@
 ![L](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![langs](https://img.shields.io/badge/VSCode-808080?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![langs](https://img.shields.io/badge/Unity-EAEAEA?style=for-the-badge&logo=unity&logoColor=black)
-
+![langs](https://img.shields.io/badge/Atom-58bf84?style=for-the-badge&logo=atom&logoColor=685c5c)
 
 ### Recent Project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-209&repo=Toad-Sings-Discord-Bot&theme=nightowl)](https://github.com/K-209/Toad-Sings-Discord-Bot) 
