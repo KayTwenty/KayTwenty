@@ -1,4 +1,4 @@
-### Hello there! <img src="hhttps://media0.giphy.com/media/ESNF24bQCAMw0/giphy.gif?cid=ecf05e4748au9yms7nml0bdtiyteo3dh41gpltbt8oep96fn&rid=giphy.gif" width="30px">
+### Hello there! <img src="https://i.gifer.com/px.gif" width="30px">
 <p align="left"> 
     Visitor Count:<br>
   <img src="https://profile-counter.glitch.me/K-209/count.svg" />
