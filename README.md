@@ -1,4 +1,4 @@
-### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello there! <img src="http://www.reddit.com/r/perfectloops/comments/1jr8on/spinning_seal_loop_request/" width="30px">
 <p align="left"> 
     Visitor Count:<br>
   <img src="https://profile-counter.glitch.me/K-209/count.svg" />
