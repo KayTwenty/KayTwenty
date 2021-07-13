@@ -1,6 +1,6 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="left"> 
-  Visitor Count:<br>
+ ## Visitor Count:<br>
   <img src="https://profile-counter.glitch.me/K-209/count.svg" />
 </p>
 
