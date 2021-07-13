@@ -17,7 +17,7 @@
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![L](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![langs](https://img.shields.io/badge/CSharp-FFD43B?style=for-the-badge&logo=csharp&logoColor=darkgreen)
+![langs](https://img.shields.io/badge/CSharp-FFD43B?style=for-the-badge&logo=csharp&logoColor=blue)
 
 ### Recent Project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-209&repo=Toad-Sings-Discord-Bot&theme=nightowl)](https://github.com/K-209/Toad-Sings-Discord-Bot) 
