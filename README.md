@@ -11,13 +11,14 @@
 - 📫 How to reach me: K-20#0101
 - ⚡ Fun fact: Whales cannot fly.
 
-### Skills:
+### Skills & Tools:
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![langs](https://img.shields.io/badge/CSharp-464EB8?style=for-the-badge&logo=csharp&logoColor=white)
 ![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![L](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![langs](https://img.shields.io/badge/CSharp-464EB8?style=for-the-badge&logo=csharp&logoColor=white)
+![langs](https://img.shields.io/badge/VSCode-808080?style=for-the-badge&logo=vscode&logoColor=blue)
 
 ### Recent Project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-209&repo=Toad-Sings-Discord-Bot&theme=nightowl)](https://github.com/K-209/Toad-Sings-Discord-Bot) 
