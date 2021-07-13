@@ -1,4 +1,4 @@
-### Hello there! <img src="https://i.gifer.com/px.gif" width="30px">
+### Hello there! <img src="https://raw.githubusercontent.com/K-209/K-209/main/resources/tenor.gif" width="30px">
 <p align="left"> 
     Visitor Count:<br>
   <img src="https://profile-counter.glitch.me/K-209/count.svg" />
