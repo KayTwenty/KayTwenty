@@ -4,28 +4,22 @@
   <img src="https://profile-counter.glitch.me/K-209/count.svg" />
 </p>
 
-## About me:
+### About me:
 - 🔭 I’m currently working on Mango-Bot (Private Repo)
 - 👀 Check out my: [Toad Sings Music Bot](https://github.com/K-209/Toad-Sings-Discord-Bot)
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: K-20#0101
 - ⚡ Fun fact: Whales cannot fly.
 
-## Other etc:
+### Skills:
+![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![L](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
+
+### Other etc:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=K209)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-209&repo=Toad-Sings-Discord-Bot&theme=nightowl)](https://github.com/K-209/Toad-Sings-Discord-Bot) 
 
 
-<!--
-**K-209/K-209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
