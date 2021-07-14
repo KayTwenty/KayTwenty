@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Whales cannot fly.
 
 ### Skills & Tools:
-![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![langs](https://img.shields.io/badge/CSharp-464EB8?style=for-the-badge&logo=csharp&logoColor=white)
 ![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
