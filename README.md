@@ -46,6 +46,6 @@
 
 ### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-209&show_icons=true&theme=nightowl) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-209&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=K209)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=K-209)](https://github.com/anuraghazra/github-readme-stats)
 
 
