@@ -5,10 +5,9 @@
 </p>
 
 ### About me:
-- 🔭 I’m currently working on Midnight Cavern (Private Repo)
-- 👀 Check out my: [Toad Sings Music Bot](https://github.com/K-209/Toad-Sings-Discord-Bot)
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: K-20#0101
+- 🔭 I’m currently working on [Spot Discord Bot](https://github.com/KayTwenty/SpotBot)
+- 👀 Check out my: [Spot](https://github.com/KayTwenty/SpotBot)
+- 🌱 I’m currently learning JS Next & Vue
 - ⚡ Fun fact: Whales cannot fly.
 
 ### Skills & Tools:
