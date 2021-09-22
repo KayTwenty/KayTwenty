@@ -40,8 +40,8 @@
 </details>
 
 
-### Recent Project:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KayTwenty&repo=Toad-Sings-Discord-Bot&theme=nightowl)](https://github.com/K-209/Toad-Sings-Discord-Bot) 
+### Streak:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KayTwenty&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
 ### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayTwenty&show_icons=true&theme=nightowl) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayTwenty&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
