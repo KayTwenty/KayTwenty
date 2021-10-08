@@ -6,7 +6,7 @@
 
 ### About me:
 - 🔭 I’m currently working on [Spot Discord Bot](https://github.com/KayTwenty/SpotBot)
-- 👀 Check out my: [Spot](https://github.com/KayTwenty/SpotBot)
+- 👀 Check out my: [Meifwa Discord Bot](https://github.com/KayTwenty/Meifwa-Discord-Bot)
 - 🌱 I’m currently learning JS Next & Vue
 - ⚡ Fun fact: Whales cannot fly.
 
