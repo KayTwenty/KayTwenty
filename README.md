@@ -7,7 +7,7 @@
 ### About me:
 - 🔭 I’m currently working on [Spot Discord Bot](https://github.com/KayTwenty/SpotBot)
 - 👀 Check out my: [Meifwa Discord Bot](https://github.com/KayTwenty/Meifwa-Discord-Bot)
-- 🌱 I’m currently learning JS Next & Vue
+- 🌱 I’m currently learning JS (React, Next, Three, Vue) & Python, C++ (Unreal)
 - ⚡ Fun fact: Whales cannot fly.
 
 ### Skills & Tools:
