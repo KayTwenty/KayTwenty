@@ -22,6 +22,8 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=java&logoColor=white)
+![Next](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=nextjs&logoColor=white)
 </p>
 </details>
 
