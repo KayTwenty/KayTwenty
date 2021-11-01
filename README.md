@@ -1,5 +1,5 @@
-### Hello there! <img src="https://raw.githubusercontent.com/K-209/K-209/main/resources/tenor.gif" width="30px">
-<p align="left"> 
+<h1 align="center">Hello There <img align="center" src="https://raw.githubusercontent.com/K-209/K-209/main/resources/tenor.gif" width="50px"></h1> 
+<p align="center"> 
     Visitor Count:<br>
   <img src="https://profile-counter.glitch.me/K-209/count.svg" />
 </p>
