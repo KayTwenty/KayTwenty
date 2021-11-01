@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Spot Discord Bot](https://github.com/KayTwenty/SpotBot)
 - 👀 Check out my: [Meifwa Discord Bot](https://github.com/KayTwenty/Meifwa-Discord-Bot)
 - 🌱 I’m currently learning JS (React, Next, Three, Vue) & Python, C++ (Unreal)
-- ⚡ Fun fact: Whales cannot fly.
+- ⚡ I generally develop Discord Bots for the Discord Community
 
 ### Skills & Tools:
 
@@ -42,11 +42,8 @@
 </details>
 
 
-### Streak:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KayTwenty&theme=dark&hide_border=true)](https://git.io/streak-stats) 
-
 ### Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayTwenty&show_icons=true&theme=nightowl) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayTwenty&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KayTwenty&theme=dark&hide_border=true)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayTwenty&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
