@@ -5,8 +5,8 @@
 </p>
 
 ### About me:
-- 🔭 I’m currently working on [Spot Discord Bot](https://github.com/KayTwenty/SpotBot)
-- 👀 Check out my: [Meifwa Discord Bot](https://github.com/KayTwenty/Meifwa-Discord-Bot)
+- 🔭 I’m currently working on [Kay's World]()
+- 👀 Check out my: [Spot Discord Bot](https://spot.twenty.cf)
 - 🌱 I’m currently learning JS (React, Next, Three, Vue) & Python, C++ (Unreal)
 - ⚡ I generally develop Discord Bots for the Discord Community
 
