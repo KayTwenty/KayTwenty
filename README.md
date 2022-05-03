@@ -1,9 +1,9 @@
 <div align="center">
 	<br>
 	<br>
-	<img width="200" src="https://c.tenor.com/OBbiRLgw-38AAAAM/seal-spinning-around.gif">
+	<img width="200" src="https://raw.githubusercontent.com/KayTwenty/KayTwenty/main/resources/rat.gif">
 	<h3><strong>We're having a really bad day.</strong></h3>
-	<p>The Spinny Seal have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
+	<p>The Dancing Rat have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
 	<div id="suggestions">
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
