@@ -1,16 +1,26 @@
-<div align="center">
-	<br>
-	<br>
-	<img width="200" src="https://raw.githubusercontent.com/KayTwenty/KayTwenty/main/resources/rat.gif">
-	<h3><strong>We're having a really bad day.</strong></h3>
-	<p>The Dancing Rat have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
-	<div id="suggestions">
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
-	</div>
-</div>
-<br />
+```zsh
+[kaytwenty@github ~]$ neofetch
+```
+
+<img align="left" src="https://avatars.githubusercontent.com/u/69999193?v=4" alt="My Profile" width="330" /> 
+
+```csharp
+kaytwenty@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Pronouns: They/Them
+Location: Canada
+IDE: VSCode, IntelliJ IDEA
+     Atom
+Languages: JavaScript, Python,
+           HTML, CSS, Pearl
+Frameworks: Next, Nuxt, React
+Learning: Java, Express, SQLite,
+          Three.js, C++, 
+Hobbies: Coding, Music, Gaming
+Commits: 778
+```
 <br />
 <p align="center"> 
     Visitor Count:<br>
