@@ -19,7 +19,7 @@ Frameworks: Next, Nuxt, React
 Learning: Java, Express, SQLite,
           Three.js, C++, 
 Hobbies: Coding, Music, Gaming
-Commits: 778
+Commits: 798
 ```
 <br />
 <p align="center"> 
