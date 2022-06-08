@@ -2,7 +2,7 @@
 [kaytwenty@github ~]$ neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/KayTwenty/KayTwenty/main/resources/asciikay.png" alt="My Profile" width="315" /> 
+<img align="left" src="https://raw.githubusercontent.com/KayTwenty/KayTwenty/main/resources/asciikay.png" alt="My Profile" width="300" /> 
 
 ```csharp
 kaytwenty@github
