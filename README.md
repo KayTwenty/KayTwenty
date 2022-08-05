@@ -7,7 +7,3 @@
 ! I like compooters
 # and I like to build servers <3
 ```
-<p align="center"> 
-    Visitor Count:<br>
-  <img src="https://profile-counter.glitch.me/K-209/count.svg" />
-</p>
