@@ -4,6 +4,6 @@
 [kaytwenty@void ~]$ fetch
 @@I'm Kay, trying to program something@@
 + I'm from Canada
-! I like compooters
-# and I like to build servers <3
+! I'm currently program in JavaScript, Node.JS, Python, Java, Go
+# I'm down for any collabs or projects
 ```
