@@ -1,6 +1,7 @@
 # Hi there! I'm David, aka KayTwenty 👋
 
 [![Website](https://img.shields.io/badge/Website-kaytwenty.com-blue)](https://kaytwenty.com)
+[![wakatime](https://wakatime.com/badge/user/5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6.svg)](https://wakatime.com/@5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6)
 
 ## About Me
 
