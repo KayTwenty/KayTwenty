@@ -7,15 +7,6 @@
 
 I'm a Software Engineer specializing in DevOps, with a passion for gaming and a knack for setting up and managing homelabs. I embrace the full-time nerd life and enjoy working with servers, building computers, and exploring various aspects of technology.
 
-## Tech Stack
-
-- Programming Languages: Python, JavaScript (Node.js and React.js), Java (Java Swing libraries)
-- DevOps: Containerization (Docker), Orchestration (Kubernetes), Continuous Integration/Deployment (CI/CD)
-- Networking: Routing, Switching, VPNs, Network Security
-- Server Administration: Linux (Ubuntu, CentOS), Windows Server
-- Cloud Platforms: AWS, Azure
-- Databases: MySQL, MongoDB
-
 ## Projects and Achievements
 
 I've worked on several projects, including personal ones related to my homelab setup. While I don't have specific notable projects to highlight at the moment, I continuously strive to expand my knowledge and contribute to the open source community.
