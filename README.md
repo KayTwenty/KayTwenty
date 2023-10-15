@@ -7,6 +7,8 @@ I work with servers, building computers, and exploring various aspects of techno
 
 ## About Me
 
+<img align="right" alt="Computer GIF" width="150" src="resources/computer.gif" />
+
 - 💻 Software Engineer with a passion for technology.
 - 🎮 Gaming enthusiast.
 - 🏠 Homelab aficionado.
