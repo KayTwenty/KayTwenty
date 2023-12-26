@@ -1,9 +1,6 @@
 # Hi there, I'm David! 👋
 
-Welcome to my GitHub profile. I'm a Software Engineer specializing in DevOps, 
-with a passion for gaming and a knack for setting up and managing homelabs. 
-
-I work with servers, building computers, and exploring various aspects of technology.
+I work with servers, building computers, and exploring different aspects of technology.
 
 ## About Me
 
@@ -42,7 +39,7 @@ I work with servers, building computers, and exploring various aspects of techno
 
 ## Connect with Me
 
-Feel free to connect with me on social media or check out my personal website for more information:
+Feel free to connect with me on social media or check out my website for more information:
 
 - 🌐 [kaytwenty.com](https://kaytwenty.com)
 
