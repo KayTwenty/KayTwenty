@@ -2,6 +2,9 @@
 
 I work with servers, build computers, and explore different aspects of technology.
 
+[![Website](https://img.shields.io/badge/Website-kaytwenty.com-blue)](https://kaytwenty.com)
+[![Wakatime](https://wakatime.com/badge/user/5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6.svg)](https://wakatime.com/@5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6)
+
 ## About Me
 
 <img align="right" alt="Computer GIF" width="150" src="resources/computer.gif" />
@@ -11,8 +14,12 @@ I work with servers, build computers, and explore different aspects of technolog
 - 🏠 Homelab aficionado.
 - 🌍 Exploring the world of server-side technology.
 
-## Skills
+## Current Skills
 
+<details open>
+<summary>⌨ <b>Stack</b></summary>
+<p>
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -26,7 +33,12 @@ I work with servers, build computers, and explore different aspects of technolog
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-## Software
+</p>
+</details>
+
+<details open>
+<summary>🛠 <b>Software</b></summary>
+<p>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
@@ -37,11 +49,8 @@ I work with servers, build computers, and explore different aspects of technolog
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 
-## Connect with Me
+</p>
+</details>
 
-Feel free to connect with me on social media or check out my website for more information:
-
-- 🌐 [kaytwenty.com](https://kaytwenty.com)
-
-[![Website](https://img.shields.io/badge/Website-kaytwenty.com-blue)](https://kaytwenty.com)
-[![Wakatime](https://wakatime.com/badge/user/5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6.svg)](https://wakatime.com/@5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6)
+### Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KayTwenty&theme=dark&hide_border=true)](https://git.io/streak-stats)
