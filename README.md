@@ -1,15 +1,15 @@
 # Hi there, I'm David! 👋
 
-I work with servers, building computers, and exploring different aspects of technology.
+I work with servers, build computers, and explore different aspects of technology.
 
 ## About Me
 
 <img align="right" alt="Computer GIF" width="150" src="resources/computer.gif" />
 
 - 💻 Software Engineer with a passion for technology.
-- 🎮 Gaming enthusiast.
+- 🎮 Gamer.
 - 🏠 Homelab aficionado.
-- 🌍 Exploring the world of DevOps.
+- 🌍 Exploring the world of server-side technology.
 
 ## Skills
 
@@ -42,10 +42,6 @@ I work with servers, building computers, and exploring different aspects of tech
 Feel free to connect with me on social media or check out my website for more information:
 
 - 🌐 [kaytwenty.com](https://kaytwenty.com)
-
-## Let's Collaborate
-
-I'm always excited about collaborating on exciting projects and learning new things. Don't hesitate to reach out if you have questions or ideas or want to say hello. Let's geek out together!
 
 [![Website](https://img.shields.io/badge/Website-kaytwenty.com-blue)](https://kaytwenty.com)
 [![Wakatime](https://wakatime.com/badge/user/5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6.svg)](https://wakatime.com/@5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6)
