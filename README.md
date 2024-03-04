@@ -1,4 +1,4 @@
-# Hi there, I'm David! ✌️
+# Hello There!✌️
 I work with servers, build computers, and explore different aspects of technology.
 
 [![Website](https://img.shields.io/badge/Website-kaytwenty.com-blue)](https://kaytwenty.com)
@@ -8,9 +8,10 @@ I work with servers, build computers, and explore different aspects of technolog
 <img align="right" alt="Computer GIF" width="150" src="resources/computer.gif" />
 
 - 💻 Software Engineer with a passion for technology.
-- 🎮 Gamer.
+- 🎧 Bedroom DJ
+- 🎮 Gamer, mainly strategy games.
 - 🏠 Homelab aficionado.
-- 🌍 Exploring the world of server-side technology.
+- 🌍 Traveller
 
 ## Current Skills
 <details open>
