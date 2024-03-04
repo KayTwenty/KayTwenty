@@ -1,12 +1,10 @@
-# Hi there, I'm David! 👋
-
+# Hi there, I'm David! ✌️
 I work with servers, build computers, and explore different aspects of technology.
 
 [![Website](https://img.shields.io/badge/Website-kaytwenty.com-blue)](https://kaytwenty.com)
 [![Wakatime](https://wakatime.com/badge/user/5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6.svg)](https://wakatime.com/@5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6)
 
 ## About Me
-
 <img align="right" alt="Computer GIF" width="150" src="resources/computer.gif" />
 
 - 💻 Software Engineer with a passion for technology.
@@ -15,7 +13,6 @@ I work with servers, build computers, and explore different aspects of technolog
 - 🌍 Exploring the world of server-side technology.
 
 ## Current Skills
-
 <details open>
 <summary>⌨ <b>Stack</b></summary>
 <p>
