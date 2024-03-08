@@ -51,4 +51,4 @@ I work with servers, build computers, and explore different aspects of technolog
 </details>
 
 ### Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KayTwenty&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KayTwenty&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats)
