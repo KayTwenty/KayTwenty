@@ -11,3 +11,4 @@ I work with servers, build computers, and explore different aspects of technolog
 - 🎧 Bedroom DJ
 - 🎮 Gamer, mainly A-RPGs games.
 - 🌍 Traveller
+- 😎 Always chillin'
