@@ -10,7 +10,7 @@ I build systems, write code, and run servers.
 - 💻 Full-stack & DevOps enthusiast  
 - 🖥️ Manage my own homelab with servers, DNS, automation, and backups  
 - 🎧 Casual DJ & audio gearhead  
-- 🧠 Learning every day — rebuilding math & CS foundations  
+- 🧠 Learning every day
 - 📍 Based in Waterloo, Canada
 
 ---
