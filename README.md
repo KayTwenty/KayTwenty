@@ -1,4 +1,4 @@
-# Hey, I'm David 👋  
+# Hey
 I build systems, write code, and run servers.
 
 [![Wakatime](https://wakatime.com/badge/user/5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6.svg)](https://wakatime.com/@5aa0e2e8-bb0c-4e5f-bfa1-21a31a92c8e6)
