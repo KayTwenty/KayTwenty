@@ -11,6 +11,5 @@ I build systems, write code, and run servers.
 - 🖥️ Manage my own homelab with servers, DNS, automation, and backups  
 - 🎧 Casual DJ & audio gearhead  
 - 🧠 Learning every day
-- 📍 Based in Waterloo, Canada
 
 ---
